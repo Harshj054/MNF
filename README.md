@@ -25,6 +25,4 @@ MNF is a news website created using PHP, MySQL, HTML, CSS, and Bootstrap. It dis
 2. Browse through the latest news articles presented in a compact format.
 3. Quickly read the headlines and summaries to stay informed in less time.
 
-## License
 
-This project is licensed under the MIT License.
